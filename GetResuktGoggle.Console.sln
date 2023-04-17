@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetResuktGoggle.Console", "GetResuktGoggle.Console.csproj", "{351727B2-EDA8-4983-AEF8-84BA2001B62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351727B2-EDA8-4983-AEF8-84BA2001B62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351727B2-EDA8-4983-AEF8-84BA2001B62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351727B2-EDA8-4983-AEF8-84BA2001B62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351727B2-EDA8-4983-AEF8-84BA2001B62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053C666B-61ED-4325-91FF-C954F911B0F3}
+	EndGlobalSection
+EndGlobal
